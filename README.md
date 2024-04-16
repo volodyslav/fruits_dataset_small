@@ -1,5 +1,5 @@
 # Fruit Dataset
-@https://www.kaggle.com/datasets/moltean/fruits/data
+https://www.kaggle.com/datasets/moltean/fruits/data
 
 Small fruit dataset.
 
